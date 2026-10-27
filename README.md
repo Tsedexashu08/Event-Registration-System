@@ -22,7 +22,7 @@ This project is a comprehensive Event Registration System made due to task assig
 **email:**admin@gmail.com
 **username:**admin
 **password:**Admin@123
-## Architecture: Model-View-Controller (MVC)
+## Architecture: (MVC- Architecture)
 
 The application follows a Model-View-Controller (MVC) architectural pattern, which separates the application into three main logical components:
 
