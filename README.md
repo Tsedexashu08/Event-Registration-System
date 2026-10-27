@@ -16,7 +16,7 @@ This project is a comprehensive Event Registration System made due to task assig
 ## Getting Started
  The below steps are to be carried out after running npm install in both client & server side
 **client side**- cd to the client folder & run npm start
-**server side**- cd to the server folder & run node server.js
+**server side**- cd to the server folder & run node server.js with supabase as the backend
 
 ## Admin credentials
 **email:**admin@gmail.com
