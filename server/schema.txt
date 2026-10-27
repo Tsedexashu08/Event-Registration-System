@@ -39,3 +39,4 @@ CREATE TABLE public.users (
   auth_id uuid UNIQUE,
   CONSTRAINT users_pkey PRIMARY KEY (id)
 );
+//all the tables needed for this dummy project
