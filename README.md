@@ -60,4 +60,5 @@ This directory contains the Node.js/Express backend application.
 -   **`models/`**: Defines data models and schemas (e.g., `Event.js`, `Registration.js`, `User.js`).
 -   **`routes/`**: Defines API routes and links them to their respective controller functions (e.g., `authRoutes.js`, `eventRoutes.js`, `registrationRoutes.js`).
 
+*might edit the UI since its mostly vibe-coded
 
